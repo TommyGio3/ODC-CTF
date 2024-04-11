@@ -9,7 +9,3 @@ Every challenge presents a unique flag, and the objective is to discover it, whe
 
 ## Tools
 
-
-## 📜 License
-
-This repository is licensed under the [MIT License](./LICENSE).
