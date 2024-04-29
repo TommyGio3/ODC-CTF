@@ -32,6 +32,8 @@ The flag is in the format flag{...}.
 
 🔘 PHP
 
+🔘 JavaScript
+
 🔘 Ghidra
 
 🔘 GDB
